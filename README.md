@@ -1,14 +1,14 @@
 先打開該資料夾裡面的 CMD 之後，輸入
 
-> gcc split_file.c·· 
+> gcc split_file.c
 > 
-> a DB_students.csv DB_students_tc_big5.csv·· 
+> a DB_students.csv DB_students_tc_big5.csv
 > 
-> gcc cid_file_index.c·· 
+> gcc cid_file_index.c
 > 
-> a cid_cname.txt·· 
+> a cid_cname.txt
 > 
-> gcc actually_run.c·· 
+> gcc actually_run.c
 
 __測試 :__
 
